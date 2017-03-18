@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Dec 06 21:10:24 PST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0158-d7b0-9408-000006234000 
+on database directory C:\Users\man\Desktop\Application\bin\LostAndFoundDB  with class loader java.net.URLClassLoader@14ae5a5 
+Loaded from jar:rsrc:derby.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\man\Desktop\Application\bin
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
